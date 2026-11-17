@@ -1,12 +1,9 @@
 ﻿namespace opdracht2
-
 {
 
     internal class Program
     {
-
         static void Main(string[] args)
-
         {
             string een = "Welkom bij C#!";
             //Dit past het best bij een string omdat het tekst is.

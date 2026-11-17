@@ -1,12 +1,9 @@
 ﻿namespace opdracht3
-
 {
 
     internal class Program
     {
-
         static void Main(string[] args)
-
         {
             string getal = "42";
             int getal2 = int.Parse(getal);

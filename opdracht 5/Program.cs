@@ -1,12 +1,9 @@
 ﻿namespace opdracht5
-
 {
 
     internal class Program
     {
-
         static void Main()
-
         {
 
             Console.Write("Hoe breed is de rechthoek? ");

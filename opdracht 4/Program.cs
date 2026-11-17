@@ -1,12 +1,9 @@
 ﻿namespace opdracht4
-
 {
 
     internal class Program
     {
-
         static void Main(string[] args)
-
         {
 
             int getal = 3;
